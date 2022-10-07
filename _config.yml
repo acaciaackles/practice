@@ -1,3 +1,5 @@
+title: Acacia Ackles
+description: I'm a Visiting Assistant Professor at Lawrence University teaching Computer Science. 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
